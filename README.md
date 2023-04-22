@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust, Javascript**
 
-- 💬 Ask me about **C, C++, RTOS, ElectroMechanical Systems**
+- 💬 Ask me about Embedded **C, C++, RTOS, ElectroMechanical Systems**
 
 - 📫 How to reach me **msamygawad@gmail.com**
 
