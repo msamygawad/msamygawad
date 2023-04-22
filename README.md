@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Samy</h1>
 <h3 align="center">A Meticulous embedded software engineer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msamy0" alt="msamy0" /></a> </p>
-
 - 🔭 I’m currently working on **Embedded projects**
 
 - 🌱 I’m currently learning **Rust, Javascript**
