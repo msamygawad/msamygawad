@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Embedded projects**
 
-- 🌱 I’m currently learning **Rust, Javascript**
+- 🌱 I’m currently learning **Rust, Linux**
 
 - 💬 Ask me about **Embedded C, C++, RTOS, ElectroMechanical Systems**
 
